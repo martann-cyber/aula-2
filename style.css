@@ -1,0 +1,12 @@
+body{ 
+    font-family:Arial;
+    color: pink;
+    background-color: black
+}  
+
+
+input{
+    width: 200px;
+    height: 25px;
+    border: 3 px solid black; 
+} 
