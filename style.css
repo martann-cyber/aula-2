@@ -10,3 +10,7 @@ input{
     height: 25px;
     border: 3 px solid black; 
 } 
+
+#valor{
+    color:red; 
+}
